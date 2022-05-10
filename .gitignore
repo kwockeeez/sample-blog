@@ -1,0 +1,8 @@
+/package-lock.json
+/public/*
+/node_modules/*
+/node_modules/bootstrap/*
+!/node_modules/bootstrap/
+/node_modules/bootstrap/scss/*
+!/node_modules/bootstrap/scss
+!/node_modules/bootstrap/scss/bootstrap-grid.scss
